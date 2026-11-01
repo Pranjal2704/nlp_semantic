@@ -8,12 +8,130 @@
 </head>
 <body>
 
-  <!-- API mode indicator -->
+  <!-- ── API mode indicator ───────────────────────────────────────────── -->
   <div id="api-badge">✨ ONLINE</div>
 
-  <!-- Toast -->
+  <!-- ── Toast ────────────────────────────────────────────────────────── -->
   <div id="toast"></div>
 
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!--  AUTH MODAL (Login / Register)                                    -->
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <div id="auth-overlay">
+    <div id="auth-modal" class="pbox-purple">
+
+      <!-- Logo -->
+      <div id="auth-logo">⬡ Word Sense ⬡</div>
+      <div id="auth-subtitle">NLP Semantic Challenge</div>
+
+      <!-- Tab switcher -->
+      <div id="auth-tabs">
+        <button class="auth-tab active" id="tab-login"    onclick="switchTab('login')">Login</button>
+        <button class="auth-tab"        id="tab-register" onclick="switchTab('register')">Register</button>
+      </div>
+
+      <!-- Form -->
+      <form id="auth-form" onsubmit="handleAuthSubmit(event)">
+        <label class="auth-label" for="auth-username">Username</label>
+        <input
+          id="auth-username"
+          class="auth-input"
+          type="text"
+          placeholder="your_username"
+          autocomplete="username"
+          maxlength="30"
+          required
+        />
+
+        <label class="auth-label" for="auth-password">Password</label>
+        <input
+          id="auth-password"
+          class="auth-input"
+          type="password"
+          placeholder="••••••••"
+          autocomplete="current-password"
+          required
+        />
+
+        <!-- Register-only field -->
+        <div id="confirm-wrap" style="display:none;">
+          <label class="auth-label" for="auth-confirm">Confirm Password</label>
+          <input
+            id="auth-confirm"
+            class="auth-input"
+            type="password"
+            placeholder="••••••••"
+            autocomplete="new-password"
+          />
+        </div>
+
+        <div id="auth-error" class="auth-error" style="display:none;"></div>
+
+        <button type="submit" id="auth-submit-btn" class="btn btn-guess auth-btn">
+          ▶ Login
+        </button>
+      </form>
+
+      <!-- Guest play option -->
+      <div id="auth-guest-wrap">
+        <span id="auth-divider">─── or ───</span>
+        <button id="auth-guest-btn" onclick="playAsGuest()">Play as Guest</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!--  PROFILE PANEL (slide-in from right)                              -->
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <div id="profile-panel" class="pbox">
+    <div id="profile-header">
+      <span id="profile-title">👤 Profile</span>
+      <button id="profile-close-btn" onclick="closeProfile()">✕</button>
+    </div>
+
+    <div id="profile-user-row">
+      <div id="profile-avatar">?</div>
+      <div>
+        <div id="profile-username">—</div>
+        <div id="profile-since">Playing as guest</div>
+      </div>
+    </div>
+
+    <!-- Stats grid -->
+    <div id="profile-stats-grid">
+      <div class="profile-stat pbox-purple">
+        <div class="profile-stat-label">Total Score</div>
+        <div class="profile-stat-value" id="ps-score">0</div>
+      </div>
+      <div class="profile-stat pbox-cyan">
+        <div class="profile-stat-label">Words Found</div>
+        <div class="profile-stat-value" id="ps-words">0</div>
+      </div>
+      <div class="profile-stat pbox-yellow">
+        <div class="profile-stat-label">Sessions</div>
+        <div class="profile-stat-value" id="ps-sessions">0</div>
+      </div>
+      <div class="profile-stat pbox-green">
+        <div class="profile-stat-label">This Session</div>
+        <div class="profile-stat-value" id="ps-session-score">0</div>
+      </div>
+    </div>
+
+    <!-- Discovered words list -->
+    <div id="profile-disc-label">🔍 Discovered Words</div>
+    <div id="profile-disc-list">
+      <p class="profile-empty-msg">No words discovered yet.</p>
+    </div>
+
+    <!-- Logout -->
+    <button id="profile-logout-btn" onclick="logout()">⏏ Logout</button>
+  </div>
+  <!-- Panel backdrop -->
+  <div id="profile-backdrop" onclick="closeProfile()"></div>
+
+  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!--  MAIN GAME APP                                                    -->
+  <!-- ══════════════════════════════════════════════════════════════════ -->
   <div id="app">
 
     <!-- ── Header ──────────────────────────────────────────── -->
@@ -21,6 +139,15 @@
       <h1>⬡ Word Sense ⬡</h1>
       <p>NLP Semantic Challenge</p>
     </header>
+
+    <!-- ── User bar ─────────────────────────────────────────── -->
+    <div id="user-bar">
+      <div id="user-bar-info">
+        <span id="user-bar-avatar">👤</span>
+        <span id="user-bar-name">Guest</span>
+      </div>
+      <button id="user-bar-profile-btn" onclick="openProfile()">📊 Profile</button>
+    </div>
 
     <!-- ── Stats row ───────────────────────────────────────── -->
     <div id="stats">
@@ -46,7 +173,6 @@
     <section id="tiles-section" class="pbox">
       <div class="tiles-label">Mystery Word</div>
       <div id="letter-row">
-        <!-- tiles injected by JS -->
         <div class="tile" style="color:var(--muted)">?</div>
       </div>
     </section>
