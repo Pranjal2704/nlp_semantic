@@ -1,0 +1,2073 @@
+{
+  "can": {
+    "n": {
+      "sense": [
+        {
+          "id": "can%1:06:00::",
+          "synset": "02958343-n"
+        }
+      ]
+    }
+  },
+  "apple": {
+    "n": {
+      "sense": [
+        {
+          "id": "apple%1:13:00::",
+          "synset": "07739125-n"
+        }
+      ]
+    }
+  },
+  "banana": {
+    "n": {
+      "sense": [
+        {
+          "id": "banana%1:13:00::",
+          "synset": "07753592-n"
+        }
+      ]
+    }
+  },
+  "orange": {
+    "n": {
+      "sense": [
+        {
+          "id": "orange%1:13:00::",
+          "synset": "07747603-n"
+        }
+      ]
+    }
+  },
+  "dog": {
+    "n": {
+      "sense": [
+        {
+          "id": "dog%1:05:00::",
+          "synset": "02084071-n"
+        }
+      ]
+    }
+  },
+  "cat": {
+    "n": {
+      "sense": [
+        {
+          "id": "cat%1:05:00::",
+          "synset": "02121620-n"
+        }
+      ]
+    }
+  },
+  "lion": {
+    "n": {
+      "sense": [
+        {
+          "id": "lion%1:05:00::",
+          "synset": "02129165-n"
+        }
+      ]
+    }
+  },
+  "chair": {
+    "n": {
+      "sense": [
+        {
+          "id": "chair%1:06:00::",
+          "synset": "03001682-n"
+        }
+      ]
+    }
+  },
+  "cup": {
+    "n": {
+      "sense": [
+        {
+          "id": "cup%1:06:00::",
+          "synset": "03147509-n"
+        }
+      ]
+    }
+  },
+  "spoon": {
+    "n": {
+      "sense": [
+        {
+          "id": "spoon%1:06:00::",
+          "synset": "04277663-n"
+        }
+      ]
+    }
+  },
+  "water": {
+    "n": {
+      "sense": [
+        {
+          "id": "water%1:27:00::",
+          "synset": "14845743-n"
+        }
+      ]
+    }
+  },
+  "book": {
+    "n": {
+      "sense": [
+        {
+          "id": "book%1:06:00::",
+          "synset": "02870092-n"
+        }
+      ]
+    }
+  },
+  "door": {
+    "n": {
+      "sense": [
+        {
+          "id": "door%1:06:00::",
+          "synset": "03224097-n"
+        }
+      ]
+    }
+  },
+  "garden": {
+    "n": {
+      "sense": [
+        {
+          "id": "garden%1:20:00::",
+          "synset": "90000001-n"
+        }
+      ]
+    }
+  },
+  "bridge": {
+    "n": {
+      "sense": [
+        {
+          "id": "bridge%1:06:00::",
+          "synset": "90000002-n"
+        }
+      ]
+    }
+  },
+  "river": {
+    "n": {
+      "sense": [
+        {
+          "id": "river%1:17:00::",
+          "synset": "90000003-n"
+        }
+      ]
+    }
+  },
+  "mountain": {
+    "n": {
+      "sense": [
+        {
+          "id": "mountain%1:17:00::",
+          "synset": "90000004-n"
+        }
+      ]
+    }
+  },
+  "island": {
+    "n": {
+      "sense": [
+        {
+          "id": "island%1:17:00::",
+          "synset": "90000005-n"
+        }
+      ]
+    }
+  },
+  "forest": {
+    "n": {
+      "sense": [
+        {
+          "id": "forest%1:20:00::",
+          "synset": "90000006-n"
+        }
+      ]
+    }
+  },
+  "market": {
+    "n": {
+      "sense": [
+        {
+          "id": "market%1:06:00::",
+          "synset": "90000007-n"
+        }
+      ]
+    }
+  },
+  "kitchen": {
+    "n": {
+      "sense": [
+        {
+          "id": "kitchen%1:06:00::",
+          "synset": "90000008-n"
+        }
+      ]
+    }
+  },
+  "window": {
+    "n": {
+      "sense": [
+        {
+          "id": "window%1:06:00::",
+          "synset": "90000009-n"
+        }
+      ]
+    }
+  },
+  "pillow": {
+    "n": {
+      "sense": [
+        {
+          "id": "pillow%1:06:00::",
+          "synset": "90000010-n"
+        }
+      ]
+    }
+  },
+  "blanket": {
+    "n": {
+      "sense": [
+        {
+          "id": "blanket%1:06:00::",
+          "synset": "90000011-n"
+        }
+      ]
+    }
+  },
+  "ladder": {
+    "n": {
+      "sense": [
+        {
+          "id": "ladder%1:06:00::",
+          "synset": "90000012-n"
+        }
+      ]
+    }
+  },
+  "hammer": {
+    "n": {
+      "sense": [
+        {
+          "id": "hammer%1:06:00::",
+          "synset": "90000013-n"
+        }
+      ]
+    }
+  },
+  "bottle": {
+    "n": {
+      "sense": [
+        {
+          "id": "bottle%1:06:00::",
+          "synset": "90000014-n"
+        }
+      ]
+    }
+  },
+  "basket": {
+    "n": {
+      "sense": [
+        {
+          "id": "basket%1:06:00::",
+          "synset": "90000015-n"
+        }
+      ]
+    }
+  },
+  "mirror": {
+    "n": {
+      "sense": [
+        {
+          "id": "mirror%1:06:00::",
+          "synset": "90000016-n"
+        }
+      ]
+    }
+  },
+  "candle": {
+    "n": {
+      "sense": [
+        {
+          "id": "candle%1:06:00::",
+          "synset": "90000017-n"
+        }
+      ]
+    }
+  },
+  "umbrella": {
+    "n": {
+      "sense": [
+        {
+          "id": "umbrella%1:06:00::",
+          "synset": "90000018-n"
+        }
+      ]
+    }
+  },
+  "tomato": {
+    "n": {
+      "sense": [
+        {
+          "id": "tomato%1:13:00::",
+          "synset": "90000019-n"
+        }
+      ]
+    }
+  },
+  "cheese": {
+    "n": {
+      "sense": [
+        {
+          "id": "cheese%1:13:00::",
+          "synset": "90000020-n"
+        }
+      ]
+    }
+  },
+  "honey": {
+    "n": {
+      "sense": [
+        {
+          "id": "honey%1:13:00::",
+          "synset": "90000021-n"
+        }
+      ]
+    }
+  },
+  "butter": {
+    "n": {
+      "sense": [
+        {
+          "id": "butter%1:13:00::",
+          "synset": "90000022-n"
+        }
+      ]
+    }
+  },
+  "pepper": {
+    "n": {
+      "sense": [
+        {
+          "id": "pepper%1:13:00::",
+          "synset": "90000023-n"
+        }
+      ]
+    }
+  },
+  "rabbit": {
+    "n": {
+      "sense": [
+        {
+          "id": "rabbit%1:05:00::",
+          "synset": "90000024-n"
+        }
+      ]
+    }
+  },
+  "turtle": {
+    "n": {
+      "sense": [
+        {
+          "id": "turtle%1:05:00::",
+          "synset": "90000025-n"
+        }
+      ]
+    }
+  },
+  "eagle": {
+    "n": {
+      "sense": [
+        {
+          "id": "eagle%1:05:00::",
+          "synset": "90000026-n"
+        }
+      ]
+    }
+  },
+  "spider": {
+    "n": {
+      "sense": [
+        {
+          "id": "spider%1:05:00::",
+          "synset": "90000027-n"
+        }
+      ]
+    }
+  },
+  "feather": {
+    "n": {
+      "sense": [
+        {
+          "id": "feather%1:05:00::",
+          "synset": "90000028-n"
+        }
+      ]
+    }
+  },
+  "doctor": {
+    "n": {
+      "sense": [
+        {
+          "id": "doctor%1:18:00::",
+          "synset": "90000029-n"
+        }
+      ]
+    }
+  },
+  "teacher": {
+    "n": {
+      "sense": [
+        {
+          "id": "teacher%1:18:00::",
+          "synset": "90000030-n"
+        }
+      ]
+    }
+  },
+  "farmer": {
+    "n": {
+      "sense": [
+        {
+          "id": "farmer%1:18:00::",
+          "synset": "90000031-n"
+        }
+      ]
+    }
+  },
+  "neighbor": {
+    "n": {
+      "sense": [
+        {
+          "id": "neighbor%1:18:00::",
+          "synset": "90000032-n"
+        }
+      ]
+    }
+  },
+  "journey": {
+    "n": {
+      "sense": [
+        {
+          "id": "journey%1:04:00::",
+          "synset": "90000033-n"
+        }
+      ]
+    }
+  },
+  "holiday": {
+    "n": {
+      "sense": [
+        {
+          "id": "holiday%1:28:00::",
+          "synset": "90000034-n"
+        }
+      ]
+    }
+  },
+  "weather": {
+    "n": {
+      "sense": [
+        {
+          "id": "weather%1:19:00::",
+          "synset": "90000035-n"
+        }
+      ]
+    }
+  },
+  "shadow": {
+    "n": {
+      "sense": [
+        {
+          "id": "shadow%1:17:00::",
+          "synset": "90000036-n"
+        }
+      ]
+    }
+  },
+  "silence": {
+    "n": {
+      "sense": [
+        {
+          "id": "silence%1:26:00::",
+          "synset": "90000037-n"
+        }
+      ]
+    }
+  },
+  "courage": {
+    "n": {
+      "sense": [
+        {
+          "id": "courage%1:07:00::",
+          "synset": "90000038-n"
+        }
+      ]
+    }
+  },
+  "memory": {
+    "n": {
+      "sense": [
+        {
+          "id": "memory%1:09:00::",
+          "synset": "90000039-n"
+        }
+      ]
+    }
+  },
+  "habit": {
+    "n": {
+      "sense": [
+        {
+          "id": "habit%1:04:00::",
+          "synset": "90000040-n"
+        }
+      ]
+    }
+  },
+  "secret": {
+    "n": {
+      "sense": [
+        {
+          "id": "secret%1:09:00::",
+          "synset": "90000041-n"
+        }
+      ]
+    }
+  },
+  "danger": {
+    "n": {
+      "sense": [
+        {
+          "id": "danger%1:26:00::",
+          "synset": "90000042-n"
+        }
+      ]
+    }
+  },
+  "victory": {
+    "n": {
+      "sense": [
+        {
+          "id": "victory%1:04:00::",
+          "synset": "90000043-n"
+        }
+      ]
+    }
+  },
+  "gather": {
+    "v": {
+      "sense": [
+        {
+          "id": "gather%2:35:00::",
+          "synset": "90000044-v"
+        }
+      ]
+    }
+  },
+  "borrow": {
+    "v": {
+      "sense": [
+        {
+          "id": "borrow%2:40:00::",
+          "synset": "90000045-v"
+        }
+      ]
+    }
+  },
+  "explain": {
+    "v": {
+      "sense": [
+        {
+          "id": "explain%2:32:00::",
+          "synset": "90000046-v"
+        }
+      ]
+    }
+  },
+  "wander": {
+    "v": {
+      "sense": [
+        {
+          "id": "wander%2:38:00::",
+          "synset": "90000047-v"
+        }
+      ]
+    }
+  },
+  "whisper": {
+    "v": {
+      "sense": [
+        {
+          "id": "whisper%2:32:00::",
+          "synset": "90000048-v"
+        }
+      ]
+    }
+  },
+  "refuse": {
+    "v": {
+      "sense": [
+        {
+          "id": "refuse%2:32:00::",
+          "synset": "90000049-v"
+        }
+      ]
+    }
+  },
+  "improve": {
+    "v": {
+      "sense": [
+        {
+          "id": "improve%2:30:00::",
+          "synset": "90000050-v"
+        }
+      ]
+    }
+  },
+  "notice": {
+    "v": {
+      "sense": [
+        {
+          "id": "notice%2:39:00::",
+          "synset": "90000051-v"
+        }
+      ]
+    }
+  },
+  "forget": {
+    "v": {
+      "sense": [
+        {
+          "id": "forget%2:31:00::",
+          "synset": "90000052-v"
+        }
+      ]
+    }
+  },
+  "arrive": {
+    "v": {
+      "sense": [
+        {
+          "id": "arrive%2:38:00::",
+          "synset": "90000053-v"
+        }
+      ]
+    }
+  },
+  "divide": {
+    "v": {
+      "sense": [
+        {
+          "id": "divide%2:30:00::",
+          "synset": "90000054-v"
+        }
+      ]
+    }
+  },
+  "compare": {
+    "v": {
+      "sense": [
+        {
+          "id": "compare%2:31:00::",
+          "synset": "90000055-v"
+        }
+      ]
+    }
+  },
+  "protect": {
+    "v": {
+      "sense": [
+        {
+          "id": "protect%2:40:00::",
+          "synset": "90000056-v"
+        }
+      ]
+    }
+  },
+  "decide": {
+    "v": {
+      "sense": [
+        {
+          "id": "decide%2:31:00::",
+          "synset": "90000057-v"
+        }
+      ]
+    }
+  },
+  "mention": {
+    "v": {
+      "sense": [
+        {
+          "id": "mention%2:32:00::",
+          "synset": "90000058-v"
+        }
+      ]
+    }
+  },
+  "repeat": {
+    "v": {
+      "sense": [
+        {
+          "id": "repeat%2:32:00::",
+          "synset": "90000059-v"
+        }
+      ]
+    }
+  },
+  "pretend": {
+    "v": {
+      "sense": [
+        {
+          "id": "pretend%2:31:00::",
+          "synset": "90000060-v"
+        }
+      ]
+    }
+  },
+  "narrow": {
+    "a": {
+      "sense": [
+        {
+          "id": "narrow%3:00:00::",
+          "synset": "90000061-a"
+        }
+      ]
+    }
+  },
+  "ancient": {
+    "a": {
+      "sense": [
+        {
+          "id": "ancient%3:00:00::",
+          "synset": "90000062-a"
+        }
+      ]
+    }
+  },
+  "gentle": {
+    "a": {
+      "sense": [
+        {
+          "id": "gentle%3:00:00::",
+          "synset": "90000063-a"
+        }
+      ]
+    }
+  },
+  "curious": {
+    "a": {
+      "sense": [
+        {
+          "id": "curious%3:00:00::",
+          "synset": "90000064-a"
+        }
+      ]
+    }
+  },
+  "fragile": {
+    "a": {
+      "sense": [
+        {
+          "id": "fragile%3:00:00::",
+          "synset": "90000065-a"
+        }
+      ]
+    }
+  },
+  "generous": {
+    "a": {
+      "sense": [
+        {
+          "id": "generous%3:00:00::",
+          "synset": "90000066-a"
+        }
+      ]
+    }
+  },
+  "familiar": {
+    "a": {
+      "sense": [
+        {
+          "id": "familiar%3:00:00::",
+          "synset": "90000067-a"
+        }
+      ]
+    }
+  },
+  "ordinary": {
+    "a": {
+      "sense": [
+        {
+          "id": "ordinary%3:00:00::",
+          "synset": "90000068-a"
+        }
+      ]
+    }
+  },
+  "nervous": {
+    "a": {
+      "sense": [
+        {
+          "id": "nervous%3:00:00::",
+          "synset": "90000069-a"
+        }
+      ]
+    }
+  },
+  "honest": {
+    "a": {
+      "sense": [
+        {
+          "id": "honest%3:00:00::",
+          "synset": "90000070-a"
+        }
+      ]
+    }
+  },
+  "brave": {
+    "a": {
+      "sense": [
+        {
+          "id": "brave%3:00:00::",
+          "synset": "90000071-a"
+        }
+      ]
+    }
+  },
+  "silent": {
+    "a": {
+      "sense": [
+        {
+          "id": "silent%3:00:00::",
+          "synset": "90000072-a"
+        }
+      ]
+    }
+  },
+  "rough": {
+    "a": {
+      "sense": [
+        {
+          "id": "rough%3:00:00::",
+          "synset": "90000073-a"
+        }
+      ]
+    }
+  },
+  "lonely": {
+    "a": {
+      "sense": [
+        {
+          "id": "lonely%3:00:00::",
+          "synset": "90000074-a"
+        }
+      ]
+    }
+  },
+  "tiny": {
+    "a": {
+      "sense": [
+        {
+          "id": "tiny%3:00:00::",
+          "synset": "90000075-a"
+        }
+      ]
+    }
+  },
+  "02084071-n": {
+    "definition": [
+      "a common domestic canine companion animal"
+    ],
+    "example": [
+      "the dog barked at the stranger"
+    ],
+    "ili": "i46376",
+    "members": [
+      "dog"
+    ],
+    "partOfSpeech": "n"
+  },
+  "02121620-n": {
+    "definition": [
+      "feline mammal usually having thick soft fur and being unable to roar"
+    ],
+    "example": [
+      "the cat purred on the windowsill"
+    ],
+    "ili": "i46583",
+    "members": [
+      "cat"
+    ],
+    "partOfSpeech": "n"
+  },
+  "02129165-n": {
+    "definition": [
+      "large gregarious predatory feline mammal of Africa and India"
+    ],
+    "example": [
+      "a pride of lions rested in the shade"
+    ],
+    "ili": "i46627",
+    "members": [
+      "lion"
+    ],
+    "partOfSpeech": "n"
+  },
+  "02870092-n": {
+    "definition": [
+      "a written or printed work consisting of pages glued or sewn together along one side"
+    ],
+    "example": [
+      "she opened the book and read a page"
+    ],
+    "ili": "i50982",
+    "members": [
+      "book",
+      "volume"
+    ],
+    "partOfSpeech": "n"
+  },
+  "02958343-n": {
+    "definition": [
+      "airtight sealed metal container of food or drink"
+    ],
+    "example": [
+      "a can of soup"
+    ],
+    "ili": "i51462",
+    "members": [
+      "can",
+      "tin"
+    ],
+    "partOfSpeech": "n"
+  },
+  "03001682-n": {
+    "definition": [
+      "a seat for one person, with a support for the back"
+    ],
+    "example": [
+      "he sat down on the wooden chair"
+    ],
+    "ili": "i51703",
+    "members": [
+      "chair"
+    ],
+    "partOfSpeech": "n"
+  },
+  "03147509-n": {
+    "definition": [
+      "a small open container usually used for drinking hot beverages"
+    ],
+    "example": [
+      "a cup of hot coffee"
+    ],
+    "ili": "i52516",
+    "members": [
+      "cup"
+    ],
+    "partOfSpeech": "n"
+  },
+  "03224097-n": {
+    "definition": [
+      "a movable entrance barrier to a building, room, or vehicle"
+    ],
+    "example": [
+      "close the front door behind you"
+    ],
+    "ili": "i52960",
+    "members": [
+      "door"
+    ],
+    "partOfSpeech": "n"
+  },
+  "04277663-n": {
+    "definition": [
+      "an eating or cooking utensil consisting of a small shallow bowl with a handle"
+    ],
+    "example": [
+      "stir the mixture with a spoon"
+    ],
+    "ili": "i59231",
+    "members": [
+      "spoon"
+    ],
+    "partOfSpeech": "n"
+  },
+  "07739125-n": {
+    "definition": [
+      "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+    ],
+    "example": [
+      "she ate a crisp green apple"
+    ],
+    "ili": "i77519",
+    "members": [
+      "apple"
+    ],
+    "partOfSpeech": "n"
+  },
+  "07747603-n": {
+    "definition": [
+      "round yellow to orange citrus fruit with thick rind and sweet juicy pulp"
+    ],
+    "example": [
+      "freshly squeezed orange juice"
+    ],
+    "ili": "i77568",
+    "members": [
+      "orange"
+    ],
+    "partOfSpeech": "n"
+  },
+  "07753592-n": {
+    "definition": [
+      "elongated crescent-shaped yellow fruit with soft sweet flesh"
+    ],
+    "example": [
+      "peel a banana for breakfast"
+    ],
+    "ili": "i77604",
+    "members": [
+      "banana"
+    ],
+    "partOfSpeech": "n"
+  },
+  "14845743-n": {
+    "definition": [
+      "binary compound that occurs at room temperature as a clear odorless liquid"
+    ],
+    "example": [
+      "he poured a glass of cold water"
+    ],
+    "ili": "i118023",
+    "members": [
+      "water"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000001-n": {
+    "definition": [
+      "a plot of ground where plants such as flowers or vegetables are grown"
+    ],
+    "example": [
+      "we planted tomatoes in the garden"
+    ],
+    "ili": "i90001",
+    "members": [
+      "garden"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000002-n": {
+    "definition": [
+      "a structure that allows people or vehicles to cross a river or road"
+    ],
+    "example": [
+      "the old bridge was closed for repairs"
+    ],
+    "ili": "i90002",
+    "members": [
+      "bridge"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000003-n": {
+    "definition": [
+      "a large natural stream of water flowing to the sea or a lake"
+    ],
+    "example": [
+      "the river flooded after the storm"
+    ],
+    "ili": "i90003",
+    "members": [
+      "river",
+      "stream"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000004-n": {
+    "definition": [
+      "a very high natural elevation of land"
+    ],
+    "example": [
+      "they climbed the mountain at dawn"
+    ],
+    "ili": "i90004",
+    "members": [
+      "mountain",
+      "peak"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000005-n": {
+    "definition": [
+      "a piece of land completely surrounded by water"
+    ],
+    "example": [
+      "we took a ferry to the island"
+    ],
+    "ili": "i90005",
+    "members": [
+      "island",
+      "isle"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000006-n": {
+    "definition": [
+      "a large area covered with trees"
+    ],
+    "example": [
+      "deer live deep in the forest"
+    ],
+    "ili": "i90006",
+    "members": [
+      "forest",
+      "woods"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000007-n": {
+    "definition": [
+      "a place where people buy and sell goods"
+    ],
+    "example": [
+      "she bought vegetables at the market"
+    ],
+    "ili": "i90007",
+    "members": [
+      "market",
+      "bazaar"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000008-n": {
+    "definition": [
+      "a room where food is prepared and cooked"
+    ],
+    "example": [
+      "dinner smelled wonderful from the kitchen"
+    ],
+    "ili": "i90008",
+    "members": [
+      "kitchen"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000009-n": {
+    "definition": [
+      "an opening in a wall fitted with glass to let in light"
+    ],
+    "example": [
+      "he opened the window to get fresh air"
+    ],
+    "ili": "i90009",
+    "members": [
+      "window"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000010-n": {
+    "definition": [
+      "a soft cushion used to support the head in bed"
+    ],
+    "example": [
+      "she fell asleep on the pillow"
+    ],
+    "ili": "i90010",
+    "members": [
+      "pillow",
+      "cushion"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000011-n": {
+    "definition": [
+      "a warm covering used on a bed"
+    ],
+    "example": [
+      "he wrapped himself in a wool blanket"
+    ],
+    "ili": "i90011",
+    "members": [
+      "blanket"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000012-n": {
+    "definition": [
+      "equipment with rungs used for climbing up or down"
+    ],
+    "example": [
+      "he leaned the ladder against the wall"
+    ],
+    "ili": "i90012",
+    "members": [
+      "ladder"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000013-n": {
+    "definition": [
+      "a tool with a heavy head used for hitting nails"
+    ],
+    "example": [
+      "she used a hammer to fix the fence"
+    ],
+    "ili": "i90013",
+    "members": [
+      "hammer"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000014-n": {
+    "definition": [
+      "a narrow-necked container for liquids"
+    ],
+    "example": [
+      "he filled the bottle with water"
+    ],
+    "ili": "i90014",
+    "members": [
+      "bottle"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000015-n": {
+    "definition": [
+      "a container woven from strips of material"
+    ],
+    "example": [
+      "the basket was full of fresh bread"
+    ],
+    "ili": "i90015",
+    "members": [
+      "basket"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000016-n": {
+    "definition": [
+      "a surface that reflects an image"
+    ],
+    "example": [
+      "she checked her hair in the mirror"
+    ],
+    "ili": "i90016",
+    "members": [
+      "mirror"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000017-n": {
+    "definition": [
+      "a stick of wax with a wick that burns to give light"
+    ],
+    "example": [
+      "they lit a candle during the power cut"
+    ],
+    "ili": "i90017",
+    "members": [
+      "candle"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000018-n": {
+    "definition": [
+      "a folding canopy held over the head as protection from rain"
+    ],
+    "example": [
+      "take an umbrella because it may rain"
+    ],
+    "ili": "i90018",
+    "members": [
+      "umbrella"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000019-n": {
+    "definition": [
+      "a soft red fruit eaten raw or cooked as a vegetable"
+    ],
+    "example": [
+      "she sliced a tomato for the salad"
+    ],
+    "ili": "i90019",
+    "members": [
+      "tomato"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000020-n": {
+    "definition": [
+      "a food made from pressed milk curds"
+    ],
+    "example": [
+      "he grated cheese over the pasta"
+    ],
+    "ili": "i90020",
+    "members": [
+      "cheese"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000021-n": {
+    "definition": [
+      "a sweet sticky substance made by bees"
+    ],
+    "example": [
+      "she stirred honey into her tea"
+    ],
+    "ili": "i90021",
+    "members": [
+      "honey"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000022-n": {
+    "definition": [
+      "a soft yellow fat made from cream"
+    ],
+    "example": [
+      "spread butter on the toast"
+    ],
+    "ili": "i90022",
+    "members": [
+      "butter"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000023-n": {
+    "definition": [
+      "a hot-tasting powder or vegetable used to season food"
+    ],
+    "example": [
+      "add salt and pepper to taste"
+    ],
+    "ili": "i90023",
+    "members": [
+      "pepper"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000024-n": {
+    "definition": [
+      "a small furry animal with long ears"
+    ],
+    "example": [
+      "a rabbit hopped across the lawn"
+    ],
+    "ili": "i90024",
+    "members": [
+      "rabbit",
+      "bunny"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000025-n": {
+    "definition": [
+      "a reptile with a hard shell that lives mostly in water"
+    ],
+    "example": [
+      "the turtle slowly crossed the beach"
+    ],
+    "ili": "i90025",
+    "members": [
+      "turtle"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000026-n": {
+    "definition": [
+      "a large bird of prey with excellent eyesight"
+    ],
+    "example": [
+      "an eagle circled above the valley"
+    ],
+    "ili": "i90026",
+    "members": [
+      "eagle"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000027-n": {
+    "definition": [
+      "an eight-legged creature that spins webs"
+    ],
+    "example": [
+      "a spider built a web in the corner"
+    ],
+    "ili": "i90027",
+    "members": [
+      "spider"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000028-n": {
+    "definition": [
+      "one of the light growths that cover a bird's body"
+    ],
+    "example": [
+      "she found a white feather on the path"
+    ],
+    "ili": "i90028",
+    "members": [
+      "feather"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000029-n": {
+    "definition": [
+      "a person trained to treat illness and injury"
+    ],
+    "example": [
+      "the doctor examined the patient carefully"
+    ],
+    "ili": "i90029",
+    "members": [
+      "doctor",
+      "physician"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000030-n": {
+    "definition": [
+      "a person whose job is to educate students"
+    ],
+    "example": [
+      "our teacher explained the lesson twice"
+    ],
+    "ili": "i90030",
+    "members": [
+      "teacher",
+      "instructor"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000031-n": {
+    "definition": [
+      "a person who grows crops or raises animals"
+    ],
+    "example": [
+      "the farmer woke before sunrise"
+    ],
+    "ili": "i90031",
+    "members": [
+      "farmer"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000032-n": {
+    "definition": [
+      "a person who lives next door or nearby"
+    ],
+    "example": [
+      "our neighbor waters our plants when we travel"
+    ],
+    "ili": "i90032",
+    "members": [
+      "neighbor",
+      "neighbour"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000033-n": {
+    "definition": [
+      "an act of traveling from one place to another"
+    ],
+    "example": [
+      "the journey took six hours by train"
+    ],
+    "ili": "i90033",
+    "members": [
+      "journey",
+      "trip"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000034-n": {
+    "definition": [
+      "a period of time spent away from work or school"
+    ],
+    "example": [
+      "we spent the holiday at the beach"
+    ],
+    "ili": "i90034",
+    "members": [
+      "holiday",
+      "vacation"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000035-n": {
+    "definition": [
+      "the day-to-day state of the atmosphere such as rain or sun"
+    ],
+    "example": [
+      "the weather is lovely today"
+    ],
+    "ili": "i90035",
+    "members": [
+      "weather"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000036-n": {
+    "definition": [
+      "a dark shape made when something blocks the light"
+    ],
+    "example": [
+      "his shadow stretched across the road"
+    ],
+    "ili": "i90036",
+    "members": [
+      "shadow"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000037-n": {
+    "definition": [
+      "complete absence of sound"
+    ],
+    "example": [
+      "a long silence followed her question"
+    ],
+    "ili": "i90037",
+    "members": [
+      "silence",
+      "quiet"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000038-n": {
+    "definition": [
+      "the ability to face danger or fear"
+    ],
+    "example": [
+      "it took courage to speak up"
+    ],
+    "ili": "i90038",
+    "members": [
+      "courage",
+      "bravery"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000039-n": {
+    "definition": [
+      "the ability to remember things from the past"
+    ],
+    "example": [
+      "she has a good memory for faces"
+    ],
+    "ili": "i90039",
+    "members": [
+      "memory",
+      "recollection"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000040-n": {
+    "definition": [
+      "something a person does regularly and almost without thinking"
+    ],
+    "example": [
+      "biting nails is a bad habit"
+    ],
+    "ili": "i90040",
+    "members": [
+      "habit",
+      "custom"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000041-n": {
+    "definition": [
+      "something kept hidden from others"
+    ],
+    "example": [
+      "can you keep a secret"
+    ],
+    "ili": "i90041",
+    "members": [
+      "secret"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000042-n": {
+    "definition": [
+      "the possibility of harm or loss"
+    ],
+    "example": [
+      "the sign warned of danger ahead"
+    ],
+    "ili": "i90042",
+    "members": [
+      "danger",
+      "peril"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000043-n": {
+    "definition": [
+      "success in a contest or struggle"
+    ],
+    "example": [
+      "the team celebrated its victory"
+    ],
+    "ili": "i90043",
+    "members": [
+      "victory",
+      "triumph"
+    ],
+    "partOfSpeech": "n"
+  },
+  "90000044-v": {
+    "definition": [
+      "bring or come together in one place"
+    ],
+    "example": [
+      "children gather around the fire"
+    ],
+    "ili": "i90044",
+    "members": [
+      "gather",
+      "collect"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000045-v": {
+    "definition": [
+      "take something with the intention of returning it"
+    ],
+    "example": [
+      "may I borrow your pen"
+    ],
+    "ili": "i90045",
+    "members": [
+      "borrow"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000046-v": {
+    "definition": [
+      "make something clear by describing it"
+    ],
+    "example": [
+      "please explain how this machine works"
+    ],
+    "ili": "i90046",
+    "members": [
+      "explain",
+      "clarify"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000047-v": {
+    "definition": [
+      "walk slowly without a fixed destination"
+    ],
+    "example": [
+      "they wandered through the old town"
+    ],
+    "ili": "i90047",
+    "members": [
+      "wander",
+      "roam"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000048-v": {
+    "definition": [
+      "speak very softly using little breath"
+    ],
+    "example": [
+      "she whispered a secret in his ear"
+    ],
+    "ili": "i90048",
+    "members": [
+      "whisper",
+      "murmur"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000049-v": {
+    "definition": [
+      "say that one will not accept or do something"
+    ],
+    "example": [
+      "he refused to answer the question"
+    ],
+    "ili": "i90049",
+    "members": [
+      "refuse",
+      "decline"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000050-v": {
+    "definition": [
+      "become or make something better"
+    ],
+    "example": [
+      "her writing improved over the year"
+    ],
+    "ili": "i90050",
+    "members": [
+      "improve",
+      "enhance"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000051-v": {
+    "definition": [
+      "become aware of something by seeing or hearing it"
+    ],
+    "example": [
+      "did you notice the new sign"
+    ],
+    "ili": "i90051",
+    "members": [
+      "notice",
+      "observe"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000052-v": {
+    "definition": [
+      "fail to remember something"
+    ],
+    "example": [
+      "i forgot my keys this morning"
+    ],
+    "ili": "i90052",
+    "members": [
+      "forget"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000053-v": {
+    "definition": [
+      "reach a place at the end of a journey"
+    ],
+    "example": [
+      "the train arrives at noon"
+    ],
+    "ili": "i90053",
+    "members": [
+      "arrive"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000054-v": {
+    "definition": [
+      "separate into parts or groups"
+    ],
+    "example": [
+      "divide the cake into eight pieces"
+    ],
+    "ili": "i90054",
+    "members": [
+      "divide",
+      "split"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000055-v": {
+    "definition": [
+      "examine two things to see how they are alike or different"
+    ],
+    "example": [
+      "compare the two prices before buying"
+    ],
+    "ili": "i90055",
+    "members": [
+      "compare",
+      "contrast"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000056-v": {
+    "definition": [
+      "keep safe from harm or danger"
+    ],
+    "example": [
+      "helmets protect your head"
+    ],
+    "ili": "i90056",
+    "members": [
+      "protect",
+      "defend"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000057-v": {
+    "definition": [
+      "make a choice after thinking about it"
+    ],
+    "example": [
+      "we decided to stay home"
+    ],
+    "ili": "i90057",
+    "members": [
+      "decide",
+      "choose"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000058-v": {
+    "definition": [
+      "refer to something briefly"
+    ],
+    "example": [
+      "she mentioned that she was tired"
+    ],
+    "ili": "i90058",
+    "members": [
+      "mention",
+      "remark"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000059-v": {
+    "definition": [
+      "say or do something again"
+    ],
+    "example": [
+      "could you repeat the question"
+    ],
+    "ili": "i90059",
+    "members": [
+      "repeat"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000060-v": {
+    "definition": [
+      "behave as if something is true when it is not"
+    ],
+    "example": [
+      "the children pretended to be pirates"
+    ],
+    "ili": "i90060",
+    "members": [
+      "pretend"
+    ],
+    "partOfSpeech": "v"
+  },
+  "90000061-a": {
+    "definition": [
+      "small in width compared to length"
+    ],
+    "example": [
+      "the narrow path led to the lake"
+    ],
+    "ili": "i90061",
+    "members": [
+      "narrow",
+      "slim"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000062-a": {
+    "definition": [
+      "belonging to a very long time ago"
+    ],
+    "example": [
+      "they visited an ancient temple"
+    ],
+    "ili": "i90062",
+    "members": [
+      "ancient",
+      "old"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000063-a": {
+    "definition": [
+      "soft and kind in manner"
+    ],
+    "example": [
+      "she has a gentle voice"
+    ],
+    "ili": "i90063",
+    "members": [
+      "gentle",
+      "mild"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000064-a": {
+    "definition": [
+      "eager to know or learn something"
+    ],
+    "example": [
+      "the curious child asked many questions"
+    ],
+    "ili": "i90064",
+    "members": [
+      "curious",
+      "inquisitive"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000065-a": {
+    "definition": [
+      "easily broken or damaged"
+    ],
+    "example": [
+      "the glass vase is very fragile"
+    ],
+    "ili": "i90065",
+    "members": [
+      "fragile",
+      "delicate"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000066-a": {
+    "definition": [
+      "willing to give more than is expected"
+    ],
+    "example": [
+      "a generous neighbor shared her harvest"
+    ],
+    "ili": "i90066",
+    "members": [
+      "generous",
+      "giving"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000067-a": {
+    "definition": [
+      "well known from long or close experience"
+    ],
+    "example": [
+      "his face looked familiar"
+    ],
+    "ili": "i90067",
+    "members": [
+      "familiar",
+      "known"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000068-a": {
+    "definition": [
+      "normal and not special in any way"
+    ],
+    "example": [
+      "it was an ordinary Tuesday"
+    ],
+    "ili": "i90068",
+    "members": [
+      "ordinary",
+      "usual"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000069-a": {
+    "definition": [
+      "feeling worried or uneasy"
+    ],
+    "example": [
+      "she felt nervous before the exam"
+    ],
+    "ili": "i90069",
+    "members": [
+      "nervous",
+      "anxious"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000070-a": {
+    "definition": [
+      "telling the truth and not cheating"
+    ],
+    "example": [
+      "an honest answer is always best"
+    ],
+    "ili": "i90070",
+    "members": [
+      "honest",
+      "truthful"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000071-a": {
+    "definition": [
+      "ready to face danger without fear"
+    ],
+    "example": [
+      "the brave firefighter saved the cat"
+    ],
+    "ili": "i90071",
+    "members": [
+      "brave",
+      "bold"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000072-a": {
+    "definition": [
+      "making no sound"
+    ],
+    "example": [
+      "the room fell silent"
+    ],
+    "ili": "i90072",
+    "members": [
+      "silent",
+      "quiet"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000073-a": {
+    "definition": [
+      "not smooth and having an uneven surface"
+    ],
+    "example": [
+      "the rough rope scratched his hands"
+    ],
+    "ili": "i90073",
+    "members": [
+      "rough",
+      "coarse"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000074-a": {
+    "definition": [
+      "sad because of being alone"
+    ],
+    "example": [
+      "he felt lonely in the new city"
+    ],
+    "ili": "i90074",
+    "members": [
+      "lonely",
+      "solitary"
+    ],
+    "partOfSpeech": "a"
+  },
+  "90000075-a": {
+    "definition": [
+      "extremely small"
+    ],
+    "example": [
+      "a tiny ant crawled over the leaf"
+    ],
+    "ili": "i90075",
+    "members": [
+      "tiny",
+      "minute"
+    ],
+    "partOfSpeech": "a"
+  }
+}

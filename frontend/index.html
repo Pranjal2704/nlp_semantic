@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Word Sense — NLP Semantic Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- API mode indicator -->
+  <div id="api-badge">✨ ONLINE</div>
+
+  <!-- Toast -->
+  <div id="toast"></div>
+
+  <div id="app">
+
+    <!-- ── Header ──────────────────────────────────────────── -->
+    <header id="header">
+      <h1>⬡ Word Sense ⬡</h1>
+      <p>NLP Semantic Challenge</p>
+    </header>
+
+    <!-- ── Stats row ───────────────────────────────────────── -->
+    <div id="stats">
+      <div class="stat-card pbox-purple">
+        <div class="stat-label">Score</div>
+        <div class="stat-value" id="score" style="color:var(--purple-lt)">0</div>
+      </div>
+      <div class="stat-card pbox-yellow">
+        <div class="stat-label">Round</div>
+        <div class="stat-value" id="round" style="color:var(--yellow-lt)">—</div>
+      </div>
+      <div class="stat-card pbox">
+        <div class="stat-label">Word Pts</div>
+        <div class="stat-value" id="word-pts">—</div>
+      </div>
+      <div class="stat-card pbox-cyan">
+        <div class="stat-label">Words Left</div>
+        <div class="stat-value" id="words-left" style="color:var(--cyan-lt)">—</div>
+      </div>
+    </div>
+
+    <!-- ── Tiles ────────────────────────────────────────────── -->
+    <section id="tiles-section" class="pbox">
+      <div class="tiles-label">Mystery Word</div>
+      <div id="letter-row">
+        <!-- tiles injected by JS -->
+        <div class="tile" style="color:var(--muted)">?</div>
+      </div>
+    </section>
+
+    <!-- ── Heat Radar ─────────────────────────────────────── -->
+    <section id="radar-section" class="pbox">
+      <div class="tiles-label">Semantic Heat Radar</div>
+      <div class="radar-inner">
+
+        <!-- Pulsing circle -->
+        <div id="radar-circle">
+          <div class="ring"></div>
+          <div class="ring"></div>
+          <div class="ring"></div>
+          <span id="radar-emoji">❓</span>
+        </div>
+
+        <!-- Thermo bar -->
+        <div class="thermo-wrap">
+          <div class="thermo-header">
+            <span>Semantic Match</span>
+            <span id="sem-pct">0.0%</span>
+          </div>
+          <div id="thermo-track">
+            <div id="thermo-fill"></div>
+          </div>
+          <div class="thermo-ticks">
+            <span>❄ COLD</span>
+            <span>🌊 COOL</span>
+            <span>⚠ WARM</span>
+            <span>🔥 HOT</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="temp-label">— Make a guess to see your temperature —</div>
+    </section>
+
+    <!-- ── Clue Board ─────────────────────────────────────── -->
+    <section id="clue-section" class="pbox">
+      <div class="tiles-label">Clue Board <span style="color:var(--muted);font-weight:400;font-size:0.6rem;">(each hint costs score %)</span></div>
+      <div id="clue-list">
+        <p id="clue-placeholder" style="color:var(--muted);font-size:.85rem;font-style:italic;">Press 💡 Hint to reveal clues…</p>
+      </div>
+    </section>
+
+    <!-- ── Feedback Banner ────────────────────────────────── -->
+    <div id="feedback-banner" class="pbox" style="display:none;"></div>
+
+    <!-- ── Guess Log ──────────────────────────────────────── -->
+    <section id="log-section" class="pbox">
+      <div class="tiles-label">Attempt Log</div>
+      <div id="guess-log">
+        <p style="color:var(--muted);font-size:.82rem;font-style:italic;">No guesses yet this round.</p>
+      </div>
+    </section>
+
+    <!-- ── Input ──────────────────────────────────────────── -->
+    <section id="input-section">
+      <input
+        id="guess-input"
+        type="text"
+        placeholder="Type your guess and press Enter…"
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <div class="btn-row">
+        <button class="btn btn-guess" id="submit-btn" onclick="submitGuess()">▶ Guess</button>
+        <button class="btn btn-hint"  id="hint-btn"   onclick="requestHint()">💡 Hint</button>
+        <button class="btn btn-skip"  id="skip-btn"   onclick="skipWord()">⏭ Skip</button>
+      </div>
+    </section>
+
+    <!-- ── Next Round Button ──────────────────────────────── -->
+    <button id="next-btn" onclick="startRound()">▶ NEXT WORD</button>
+
+  </div><!-- /#app -->
+
+  <script src="game.js"></script>
+</body>
+</html>
